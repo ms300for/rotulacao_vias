@@ -18,3 +18,17 @@ Quanto a informação sobre placas:
 
 - 0: Inexistência de placas na imagem
 - 1: Existência de placas na imagem
+
+# Rotulação pavimentos
+Programa criado para rotulação de defeitos em pavimentos asfálticos.
+
+O programa possui 5 rótulos diferentes, sendo eles:
+
+- Buracos:  referente à imagens contendo um ou mais buracos
+- Remendos: referente à imagens contendo um ou mais remendos
+- Trincas:  referente à imagens contendo um ou mais regiões trincadas
+- Limpa:    referente à imagens cujo pavimento não apresenta algum tipo de dano
+- Multidefeitos: referente à imagens que apresentem mais de um tipo de defeito (ex: um buraco e remendos)
+- Outros: imagens que possam não ser classificadas nas categorias apresentadas anteriormentes, ou que necessitem de uma análise especial
+
+As imagens coletadas devem, prioritariamente, conter defeitos isolados por tipo, evitando-se assim mais de um tipo de defeito na mesma imagem.
